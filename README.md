@@ -14,6 +14,13 @@ https://www.python.org/downloads/
     -Type in date of purchase order report
     -It will out complete when done and automatically close
 
+Current supported vendors:
+- Avnet
+- Digikey
+- TTI
+- Future
+- Arrow
+- Mouser
 
 note:
 - After entering date, a message that Workbook contains no default style. Ignore this.
